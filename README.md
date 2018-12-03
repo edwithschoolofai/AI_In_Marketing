@@ -7,7 +7,7 @@
 
 ## 사용법
 
-주피터 노트북은 깃헙에서 바로 읽기가 가능합니다. 이 코드를 실행하기 위해서는 keras 와 tensorrec 프레임워크의 설치가 필요합니다. 둘다[pip](https://pip.pypa.io/en/stable/installing/)을 통해 설치가 가능합니다. tensorrec 프레임워크 [저장소](https://github.com/jfkirk/tensorrec)입니다.
+주피터 노트북은 깃헙에서 바로 읽기가 가능합니다. 이 코드를 실행하기 위해서는 keras 와 tensorrec 프레임워크의 설치가 필요합니다. 둘 다 [pip](https://pip.pypa.io/en/stable/installing/)을 통해 설치가 가능합니다. tensorrec 프레임워크 [저장소](https://github.com/jfkirk/tensorrec)입니다.
 
 
 ## 감사의 말
