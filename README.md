@@ -3,7 +3,7 @@
 
 ## 간단한 설명
 
-이 코드는 Siraj Raval 의 유투브 비디오 [ "마케팅 속 인공지능" ](https://www.youtube.com/watch?v=FYMjXD3G__Y&lc=z23hgfkpdnfjyt0n1acdp431kuaxfkhbz5py54gjhedw03c010c) 에 설명된 코드입니다. 
+이 코드는 Siraj Raval 의 유투브 영상 [ "마케팅 속 인공지능" ](https://www.youtube.com/watch?v=FYMjXD3G__Y&lc=z23hgfkpdnfjyt0n1acdp431kuaxfkhbz5py54gjhedw03c010c) 에 설명된 코드입니다. 
 
 ## 사용법
 
